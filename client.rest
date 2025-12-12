@@ -9,3 +9,13 @@ GET {{baseURL}}/home/hello
 
 # @name AppControllerExemplo
 GET {{baseURL}}/home/exemplo/
+
+### ConceitosManualControllerHome
+
+# @name ConceitosManualControllerHome
+GET {{baseURL}}/conceitos-manual/
+
+### ConceitosAutomaticoController
+
+# @name ConceitosAutomaticoController
+GET {{baseURL}}/conceitos-automatico/
